@@ -1,0 +1,2 @@
+# TestingCoin
+LogosCoin
